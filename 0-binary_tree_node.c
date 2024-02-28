@@ -2,7 +2,7 @@
 
 
 /**
- * binary_tree_insert_left - the function pointer 
+ * binary_tree_insert_left - the function pointer
  * @parent: pointer node that point to the root of the node
  * @value: the value of the node
  * Return: return binary data type
