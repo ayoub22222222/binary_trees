@@ -1,6 +1,4 @@
 #include "binary_trees.h"
-
-
 /**
  * binary_tree_insert_left - the function pointer
  * @parent: pointer node that point to the root of the node
