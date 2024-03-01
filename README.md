@@ -58,4 +58,4 @@ Implementing binary trees in C involves managing memory allocation, implementing
 - Prototypes of all functions should be included in the header file `binary_trees.h`
 - Header files should be include guarded
 ## Data Structures
-
+**Basic Binary Tree**
