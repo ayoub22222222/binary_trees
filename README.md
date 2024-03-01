@@ -47,4 +47,6 @@ Implementing binary trees in C involves managing memory allocation, implementing
 - [Data structures: Binary Tree](https://www.tutorialspoint.com/data_structures_algorithms/binary_tree_algorithm.htm)
 
 ## Requirements
-
+- **Allowed editors:** vi, vim, emacs
+- **Operating System:** Ubuntu 20.04 LTS
+- **Compiler:** gcc, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
