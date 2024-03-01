@@ -31,3 +31,5 @@ Binary trees are used in various applications, including:
 
 ### Implementation Notes:
 Implementing binary trees in C involves managing memory allocation, implementing traversal algorithms, and ensuring the integrity of the tree structure.
+
+## Table of Contents
