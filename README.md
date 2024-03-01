@@ -83,3 +83,7 @@ typedef struct binary_tree_s binary_tree_t;
 ```c
 typedef struct binary_tree_s bst_t;
 ```
+**AVL Tree**
+```c
+typedef struct binary_tree_s avl_t;
+```
