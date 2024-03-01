@@ -53,3 +53,5 @@ Implementing binary trees in C involves managing memory allocation, implementing
 - All files should end with a new line`
 - Code should follow the Betty style
 - No global variables allowed
+- Maximum 5 functions per file
+- Standard library is allowed
