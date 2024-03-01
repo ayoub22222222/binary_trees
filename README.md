@@ -51,3 +51,5 @@ Implementing binary trees in C involves managing memory allocation, implementing
 - **Operating System:** Ubuntu 20.04 LTS
 - **Compiler:** gcc, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89
 - All files should end with a new line`
+- Code should follow the Betty style
+
