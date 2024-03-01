@@ -40,3 +40,4 @@ Implementing binary trees in C involves managing memory allocation, implementing
 - [Print Function](#print-function)
 
 ## Resources
+- [Binary tree](https://en.wikipedia.org/wiki/Binary_tree) 
